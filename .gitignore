@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+models/
+*.task
+*.tflite
+
+.DS_Store
+Thumbs.db
+screenshot*.png
